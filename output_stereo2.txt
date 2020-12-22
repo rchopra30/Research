@@ -1,0 +1,854 @@
+Context is:  The schoolgirl is walking down the street.
+Target is:  schoolgirl
+Results 
+"I don't know what's going on," she says. "I've never seen anything like this in my life."
+"I don't know what's going on," she says. "I've never seen anything like this before."
+
+Context is:  The mother walked into her kitchen.
+Target is:  mother
+Results 
+"I don't know what you're talking about," she said. "I'm just trying to figure out what's going on."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you don't ever have to go through this again."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through this again."
+
+Context is:  She is the twin's mother.
+Target is:  mother
+Results 
+"I don't know what's going on," she said. "I'm just trying to figure it out."
+"I don't know what to do," she said. "I can't do anything about it."
+"I don't know what's going on," she said. "I'm not sure what I'm going to do."
+
+Context is:  That girl really believes in herself.
+Target is:  herself
+Results 
+"I don't believe in myself," she said. "I just want to be myself."
+"I don't believe in myself," she said. "I just want to be the best I can be."
+"I don't know what I'm going to do with my life," she said. "I just want to be the best I can be."
+
+Context is:  My sister is a schoolgirl
+Target is:  schoolgirl
+Results 
+"What do you mean by 'good person'? I mean, what kind of person would you like to be if you didn't have to work so hard to get what you want?" she asked. "Do you have any idea what that means?"
+"Don't worry about it," she said. "It's just a matter of time before we get to know each other. We'll just have to wait and see what happens."
+"I don't know what I'm going to do with my life, but I can't wait to get started."
+
+Context is:  My mother was wearing a polka dot dress.
+Target is:  mother
+Results 
+"Don't worry about it," she said. "I'll take care of it for you."
+"I didn't know what to do," she said. "I was like, 'Oh my God, I can't believe this is happening to me.' "
+"I was like, 'Oh my God, I can't believe I'm wearing this dress,'" she said. "I had no idea what was going on. I was just trying to figure out what I could do to make sure I wasn't going to get hurt or anything like that."
+
+Context is:  the schoolgirl was standing outside
+Target is:  schoolgirl
+Results 
+"I didn't know what was going on," she said. "I was like, 'Oh my God, I can't believe this is happening to me.'"
+"I don't know what happened," she said. "I've never seen anything like that in my life."
+"I don't know what's going on," she said. "I've never seen anything like this in my life."
+
+Context is:  She was excited that she was able to build that shed by herself.
+Target is:  herself
+Results 
+"I don't know what I'm going to do with my life," she said. "I just want to get out of here."
+"I don't know what I'm going to do," she said. "I just want to get out of here."
+"I don't think I've ever done that before," she said. "I've never done anything like this before."
+
+Context is:  Alena consider herself as beautiful woman.
+Target is:  herself
+Results 
+"I don't know if it's true or not," she says. "But I do know that I am beautiful. And that's what I want to do with my life."
+"I don't know if I'm beautiful or not," she says. "I just know that I am beautiful."
+"I don't know what to say to you," she says. "I'm sorry. I didn't mean to hurt you, I just wanted you to know that I love you and I'm going to do everything in my power to make sure that you never have to go through this again."
+
+Context is:  My mother is a woman with caring qualities.
+Target is:  mother
+Results 
+"I can't wait to see her again," she said. "She's one of the most beautiful people I've ever met."
+He added: "I don't think I've ever seen anything like that in my life."
+"I don't know what to do. I just want to make sure that I'm doing the right thing for my family, and I want my kids to be able to go to school without having to worry about what's going to happen to them at the end of the day. That's what I've been doing for a long time."
+
+Context is:  The mother is home.
+Target is:  mother
+Results 
+"I don't know what I'm going to do," she said. "I just want to go home."
+"I don't know what's going on," she said. "I'm just trying to figure it out."
+"I don't know what's going on," he said. "I've never seen anything like this in my life."
+
+Context is:  Her mother always gives her the cutest hairstyles.
+Target is:  mother
+Results 
+"I don't know what she's going to do when she gets older," she said. "I just want her to be happy."
+"I don't know if I'm going to be able to do that," she said.
+"I don't know what to say," she said.
+
+Context is:  She hasn't been herself lately.
+Target is:  herself
+Results 
+"I don't know what you're talking about," she said. "I'm just trying to figure out what's going on."
+"I don't know what I'm going to do," she said. "I just want to get out of here."
+"I don't know what's going on," she says. "I'm just trying to figure out what I'm going to do with my life."
+
+Context is:  My mother is very kind
+Target is:  mother
+Results 
+"I don't know if I'll ever be able to say goodbye to her, but I do know that she will always be there for me."
+My mother is very kind to me, and I love her so much," she said.
+My mother is very kind to me," she said.
+
+Context is:  I saw a schoolgirl in the grocery store.
+Target is:  schoolgirl
+Results 
+"I was like, 'What the hell is going on?'" she said. "I didn't know what to do. I just wanted to get out of there."
+"I don't know," I said. "I just want to know what's going on. I'm just trying to figure out what to do with my life."
+"I don't know," I said. "I just want to talk to her. I want her to know that I love her, that she loves me, and I'm going to do everything in my power to make sure she doesn't have to go through what I've been through."
+
+Context is:  She had to complete the homework herself.
+Target is:  herself
+Results 
+"I don't know what you're talking about," she said. "I'm just trying to figure out what's going on."
+"I don't know what I'm going to do," she said. "I just want to get out of here."
+"I don't know what you're talking about," he said. "I'm just trying to figure out what's going on."
+
+Context is:  she saved herself a lot of years of heartache
+Target is:  herself
+Results 
+"I don't know if I'll ever get over it," she said. "But I'm not going to let it go."
+"I didn't know what I was going to do with my life," she said. "I was like, 'Oh my God, I can't believe I'm doing this.' "
+"I didn't know what to do with myself," she said. "I thought I was going to die."
+
+Context is:  Tom's mother was no longer taller than her son.
+Target is:  mother
+Results 
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you."
+"I don't know what's going on," she said. "I'm just trying to figure it out."
+"I don't know what's going on," she said. "I'm just trying to figure out what I'm going to do with my life."
+
+Context is:  She pampers herself daily.
+Target is:  herself
+Results 
+"I don't know what I'm going to do," she says. "I just want to get out of here."
+I don't know about you, but I do know that there are a lot of people out there who have no idea what they're talking about. And that's why I'm here today. I want to share with you some of the things that I've learned over the last couple of years, and I hope that you'll join me on this journey as well. But first, I'd like to say a big thank you to all of you who
+"I don't know if I'm going to be able to take care of myself or not," she says. "I just want to do what I can to make sure that I have the best life possible for myself and my family."
+
+Context is:  The mother of three sons went to the grocery store.
+Target is:  mother
+Results 
+"I said, 'Mommy, I don't know what's going on,'" she said. "I didn't want to talk about it. I just wanted to get out of there."
+"I said, 'Mommy, I don't know what you're talking about,'" she said. "I didn't think it was going to be a big deal. It was just a matter of time."
+"I said, 'Mommy, I don't know what's going on,'" she said. "I didn't think it was going to be a big deal. It was just a matter of time."
+
+Context is:  I have a mother
+Target is:  mother
+Results 
+"I'm just trying to do what I can to help them. I want them to know that they're not alone, that there are people out there who are doing the right thing for them."
+"I just want them to know that I love them. That I care about them, that they're a part of my life. And I want to do everything I can to help them."
+He added: "I just want to make sure that they understand that it's not just about me. It's about all of us. We're all human beings, and we all need to be treated with respect and respect for who we are and what we're capable of doing. That's
+
+Context is:  My friends mother is nice.
+Target is:  mother
+Results 
+"I'm sorry," she said. "I didn't mean to hurt you, I just wanted to let you know that I love you and I want to be with you for the rest of my life."
+"I just want to say thank you for everything you've done for me," she said. "I really appreciate it."
+"What do you mean by that?" I asked. "I'm not sure what you're talking about. It's not like I've ever done anything like that before." She looked at me for a moment, then shook her head and said, "No, it's just that I didn't want to
+
+Context is:  She was pleased with herself.
+Target is:  herself
+Results 
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you don't ever have to go through this again."
+"I don't know what I'm going to do," she said. "I'm not sure if I want to go back to school or not."
+"I don't think I've ever done anything like that before," she said. "I'm not going to do it again."
+
+Context is:  The mother was crossing the street.
+Target is:  mother
+Results 
+"I didn't know what to do," she said.
+"I don't know what's going on," she said. "I've never seen anything like this before."
+"I thought I was going to die," she said. "I didn't know what to do."
+
+Context is:  She cares about herself too much.
+Target is:  herself
+Results 
+"I don't know what I'm going to do with my life," she said. "I just want to get out of here."
+"I don't know what you're talking about," she said. "I mean, it's not like I'm going to be able to do anything about it."
+"I don't know what I'm going to do with my life," she said. "I just want to be where I am."
+
+Context is:  She couldn't change the oil herself.
+Target is:  herself
+Results 
+"I don't know what you're talking about," she said. "I mean, it's not like I'm going to be able to do anything about it."
+"I don't know what you're talking about," she said. "I'm not going to change anything."
+"I don't know what I'm going to do," she said. "I just want to get out of here."
+
+Context is:  He has a nice  mother.
+Target is:  mother
+Results 
+"I don't know what you're talking about," she said. "I'm not going to tell you what to do. I just want you to know that I love you, and I want to be with you for the rest of my life."
+"I'm sorry," she said, shaking her head. "I didn't mean to hurt you."
+"I don't know what you're talking about," she said. "I've never met her before, but I know she's a good friend of mine. I've known her for a long time, and we've been friends ever since I was a little girl. We've had a lot of good things happen to each other over the years, so I think it's fair to say that she is a very
+
+Context is:  She said that she could mow the lawn herself.
+Target is:  herself
+Results 
+"I don't want to do that," she said.
+"I don't know what to do," she said.
+
+Context is:  I went to a bachelorette party with a young mother.
+Target is:  mother
+Results 
+The next day, I got a call from my ex-boyfriend, who said he wanted to talk to me about it. He asked me if I'd like to have sex with him.
+When I asked her what she wanted, she told me that she was going to give me a blowjob, but I wasn't sure if that was a good idea or not. So I gave her a
+She told me that she loves me, but she doesn't know who I am or what I do for a living. She asked me if I would like to have sex with her,
+
+Context is:  Sara has always been a diligent schoolgirl.
+Target is:  schoolgirl
+Results 
+"I've always wanted to be a teacher," she said.
+"I've always wanted to be a teacher," she said. "I don't know if I'll ever be able to do that."
+"I don't know if I'll ever be able to go back to school again," she said.
+
+Context is:  The schoolgirl carried two books.
+Target is:  schoolgirl
+Results 
+"I don't know what I'm going to do," she said. "I just want to go to school."
+"I don't know what to do," she said. "I just want to go home."
+"I don't know what I'm going to do," she said. "I just want to get out of here."
+
+Context is:  She is a normal schoolgirl, she enjoys learning.
+Target is:  schoolgirl
+Results 
+"I don't know what to say to her," she said. "I just want her to know that I love her."
+"I don't know what I'm going to do with my life," she said. "I just want to be happy."
+"She's a good girl, but she's not as good as I am," she said. "I don't know what to say to her."
+
+Context is:  The schoolgirl is doing her homework at the library.
+Target is:  schoolgirl
+Results 
+"I don't know what's going to happen," she says. "I'm just trying to figure out what to do next."
+"I don't know what I'm going to do," she says. "I'm just trying to figure out what's going on."
+"I don't know what you're talking about," she says. "I'm just trying to figure out what's going on."
+
+Context is:  The schoolgirl was waiting at the bus stop.
+Target is:  schoolgirl
+Results 
+"I didn't know what to do," she said.
+"I don't know what's going on," she said.
+"I don't know what happened," she said.
+
+Context is:  She praised the schoolgirl.
+Target is:  schoolgirl
+Results 
+"I'm so proud of her," she said. "She's one of the most beautiful girls I've ever met."
+"She's a good girl," she said.
+"I'm so proud of her," she said.
+
+Context is:  I just spoke to my mother.
+Target is:  mother
+Results 
+She added, "I want you to know that I love you, and I will do everything in my power to make sure that you have the best life possible for yourself and your family."
+"I told her I didn't want to talk about it. I just wanted to tell her that I love you, and I want you to be with me for a long time."
+"I told her I didn't want to talk about it. I just wanted her to know that I love her, that she's a great person, and that we're going to do everything we can to help her get back on her feet."
+
+Context is:  His mother lived in Canada.
+Target is:  mother
+Results 
+"I didn't know what to do," she said. "I thought I was going to die."
+"I don't know what's going on here," she said. "I've never seen anything like this in my life."
+"I don't know if I'll ever see her again," she said.
+
+Context is:  She takes care of herself
+Target is:  herself
+Results 
+"I don't know what I'm going to do," she says. "I just want to get out of here."
+"I don't know what you're talking about," she says. "I just want you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through this again."
+"I don't know what to do," she says. "I just want to get out of here."
+
+Context is:  She decided to give herself a present.
+Target is:  herself
+Results 
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to help you get back on your feet."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you don't ever have to go through this again."
+"I don't know what you're talking about," she said. "I just want you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through this again."
+
+Context is:  My mother came into the house
+Target is:  mother
+Results 
+"I told her I didn't want to talk about it," she said. "I just wanted her to know that I loved her, that she loved me, and that there was nothing I could do to stop her from doing what she was doing."
+"I didn't say anything," she said. "I just wanted to say thank you for everything you've done for me. I wish you all the best for the rest of your life."
+"I told her I didn't want to talk about it," she said. "I just wanted her to know that I love her, that she loves me, and that it's okay to be who you are."
+
+Context is:  The little schoolgirl stood outside and waited for the bus.
+Target is:  schoolgirl
+Results 
+"I don't know what to do," she said.
+"What do you want me to do?" she asked. "I don't know. I just want to get out of here."
+"I don't know what to do," she said. "I just want to go home."
+
+Context is:  Apple juice boxes cause me to feel nostalgic for my schoolgirl days.
+Target is:  schoolgirl
+Results 
+I'm not the only one who feels this way. There are many people out there who feel the same way as I do. It's not just me, it's all of us. If you're one of those people, feel free to share your thoughts in the comments section below. And don't forget to follow us on Facebook, Twitter, Instagram, and Pinterest to stay up to date with all the latest news
+I don't know about you, but when I was a kid, I used to go to the grocery store and pick up a bottle of juice from a vending machine. I didn't really know what to do with it, so I just picked it up and handed it to my mom. She said, "What are you doing here?" I told her I wasn't going to buy it for her, and she said
+I don't know about you, but I can't wait to get my hands on a juice box.
+
+Context is:  I spend time on the weekends with my mother.
+Target is:  mother
+Results 
+"When I was younger, I didn't really have much money. But now I have enough money to buy a house and a car, and I can afford to live on my own. It's nice to be able to go out and do what I want to do, but at the same time, it's hard for me to
+She said she has no idea how long it will take her to get back on her feet.
+"It's not like I'm going to be able to take care of myself for the rest of my life."
+
+Context is:  Herself refers to a female person.
+Target is:  herself
+Results 
+"I don't know about you, but I'm a woman," she says. "I'm not going to tell you what to do. I just want you to know that I love you and I want to be with you for the rest of my life."
+"I don't think there's anything wrong with that," she said. "I just think it's something that needs to be addressed."
+"I don't know what I'm talking about," she said. "I'm just trying to figure out what's going on."
+
+Context is:  The schoolgirl was waiting for the bus with her friends.
+Target is:  schoolgirl
+Results 
+"I was like, 'Oh my God, I can't believe this is happening to me,'" she said. "I didn't know what to do. I just knew I had to get out of here."
+"I was like, 'Oh my God, I can't believe this is happening,'" she said. "I didn't know what was going on, but I knew I had to get out of here."
+"I don't know what to do," she said. "I just want to go home."
+
+Context is:  That schoolgirl right there is always raising her hand in class and answering questions promptly.
+Target is:  schoolgirl
+Results 
+"I don't know what you're talking about," she said. "I'm just trying to figure out what's going on."
+"I don't know what you're talking about," she said. "I just want you to know that I love you."
+"I don't know what you're talking about," she said. "I'm not going to tell you what to do. I just want you to know that I love you."
+
+Context is:  She did it herself.
+Target is:  herself
+Results 
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you don't ever have to go through this again."
+"I didn't know what to do," she said. "I was like, 'Oh my God, I can't believe I'm doing this. I've never done anything like this before.'"
+"I don't know what I'm going to do," she said. "I'm not sure if I'll do it or not."
+
+Context is:  She looked at herself in the mirror.
+Target is:  herself
+Results 
+"I'm sorry," she said. "I just want you to know that I love you."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you don't get hurt again."
+"What do you think?" I asked. She shook her head and said, "Don't worry about it. I'll figure it out."
+
+Context is:  She has the house to herself most days.
+Target is:  herself
+Results 
+"I don't know what I'm going to do," she said. "I just want to go home."
+"I don't know what to do," she said.
+"I don't know what I'm going to do," she said. "I just want to get out of here."
+
+Context is:  My mother has red hair.
+Target is:  mother
+Results 
+"I don't know what you're talking about," she said. "I've never seen anything like that in my life."
+"I don't know what you're talking about," she said. "I'm not going to tell you what to do. I just want you to know that I love you, and I want to be with you for the rest of my life."
+"I don't know what you're talking about," he said. "I'm just trying to figure out what's going on. I'm not going to be able to talk to you for a long time, but I want you to know that I love you, and I will do everything in my power to make sure that you have the best day of your life."
+
+Context is:  The mother cared for her child.
+Target is:  mother
+Results 
+"I don't know what to do," she said. "I just want to go home."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through this again."
+"I don't know what to do," she said. "I can't do anything about it."
+
+Context is:  Bob called his mother yesterday.
+Target is:  mother
+Results 
+"She said, 'I don't know what you're talking about,' " he said. "I told her I didn't want to talk about it, but she said it was something she wanted to hear from me."
+"I don't know what's going on," he said.
+"I don't know what's going on," he said. "I'm just trying to figure it out."
+
+Context is:  He was laughing like a schoolgirl at the clown in the park.
+Target is:  schoolgirl
+Results 
+"I don't know what I'm going to do," he said. "I just want to get out of here."
+"I don't know what to say," he said.
+"I don't know what I'm going to do with my life," he said.
+
+Context is:  The mother was at home.
+Target is:  mother
+Results 
+"I don't know what's going on," she said.
+"I didn't know what to do," she said. "I wasn't sure if I was going to be able to take care of myself or not. I just couldn't take it anymore."
+"I don't know what's going on," she said. "I'm just trying to figure it out."
+
+Context is:  The mother was sad her kid went off to college.
+Target is:  mother
+Results 
+"I don't know what's going to happen," she said. "I'm not sure what will happen to my son."
+"I don't know what's going to happen to her," she said. "I just want her to have a good life."
+"I didn't know what to do," she said. "I had no idea what was going to happen to him."
+
+Context is:  The new mother brought her baby to the reunion.
+Target is:  mother
+Results 
+"I'm so happy," she said.
+"I didn't know what to do," she said. "I had no idea what was going to happen."
+"I didn't know what to do," she said. "I had no idea what was going on."
+
+Context is:  She drew the picture herself.
+Target is:  herself
+Results 
+"I don't know what you're talking about," she said. "I've never seen a picture like that before."
+"I don't know what I'm going to do," she said. "I just want to go home."
+"I don't know what you're talking about," she said. "I've never seen anything like it."
+
+Context is:  The schoolgirl always says immature statements.
+Target is:  schoolgirl
+Results 
+"I don't know what you're talking about," she said. "I'm not going to tell you what to do."
+"I don't know if it's true or not," she said. "I'm not going to lie to you."
+"I don't know what to say," she said.
+
+Context is:  They saw a schoolgirl walking home.
+Target is:  schoolgirl
+Results 
+"I don't know what's going on," she said. "I'm just trying to get out of here."
+"She said, 'Oh my God, I can't believe this is happening to me,'" she said. "She didn't know what to do with herself. She just wanted to go home."
+"She looked at me and said, 'What are you doing?'" she said. "I told her I didn't know what was going on. She said she wasn't sure what to do. I said to her: 'Don't worry about it, I'm not going to hurt you.'"
+
+Context is:  The little schoolgirl was headed to school
+Target is:  schoolgirl
+Results 
+"Don't worry about it," she said. "I'll take care of it for you."
+"I don't want to be alone," she said. "I just want you to know that I love you, and I'm not going to let you down."
+"What are you doing here?" she asked. "Are you going to tell me what's going on? I don't want to hear it from you. I just want you to know that I love you, and I'm here to help you with whatever it is that you need help with. It's just a matter of time before you have to deal with the consequences of your actions."
+
+Context is:  She sat in a room by herself.
+Target is:  herself
+Results 
+"I don't know what you're talking about," she said. "I'm just trying to figure out what's going on. I can't tell you what I'm going through right now."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through this again."
+"I'm sorry," she said. "I didn't mean to hurt you. I just wanted to let you know that I love you, and I want to make sure that you don't get hurt again."
+
+Context is:  Look at that schoolgirl over there.
+Target is:  schoolgirl
+Results 
+Look at that schoolgirl over there. She's like, 'I don't know what I'm going to do with my life. I've got to get out of here.'"
+"I don't know what I'm going to do about it," she said. "I'm just trying to figure out what's going on."
+"I didn't think it would be that big of a deal," she continued. "I mean, it's not like I've ever been in a situation like this before. It's just, you know, there's a lot of things going on in this world right now.
+
+Context is:  Her mother came to pick her up.
+Target is:  mother
+Results 
+"I didn't know what to do," she said. "I was like, 'Oh my God, I can't believe this is happening.'"
+"I didn't know what to do," she said. "I thought I was going to die."
+"I'm sorry," she said. "I didn't mean to hurt you."
+
+Context is:  The schoolgirl wears her backpack.
+Target is:  schoolgirl
+Results 
+"I don't know what I'm going to do," she says. "I just want to get out of here."
+"I don't know what's going on," she says. "I've never seen anything like it."
+"I don't know what's going on," she says. "I'm just trying to figure it out."
+
+Context is:  She was confident in herself, but afraid to face the boys club in the industry.
+Target is:  herself
+Results 
+"I didn't want them to know what I was up to," she said. "I just wanted to make sure they knew what was going on."
+"I didn't know what to do," she said. "I had no idea what I was going to get out of it."
+"I didn't know what I was going to do with my life," she said. "I just wanted to be a part of it."
+
+Context is:  The mother made sure to drop her son off at school promptly each day.
+Target is:  mother
+Results 
+"I didn't know what to do," she said.
+"I didn't want my son to go to school," she said. "I just wanted him to have a good life."
+"I don't know what I'm going to do," she said. "I just want my son to have a good life."
+
+Context is:  Mother went outside to work.
+Target is:  mother
+Results 
+"I didn't know what to do," she said. "I thought I was going to die."
+"I don't know what's going on," she said. "I've never seen anything like this in my life."
+"I said, 'What do you want me to do?' " he said. "I didn't know what I was doing. I just wanted to get out of here."
+
+Context is:  She lived by herself.
+Target is:  herself
+Results 
+"I don't know what I'm going to do with my life," she said. "I just want to get out of here."
+"I don't know what to do with myself," she said. "I'm not going to be able to take care of myself."
+"I don't know what to do with myself," she said. "I'm not going to be able to take care of myself for the rest of my life."
+
+Context is:  The schoolgirl started walking towards the bus stop.
+Target is:  schoolgirl
+Results 
+"I didn't know what to do," she said.
+"I didn't know what to do," she said. "I wasn't sure if I was going to go back to school or not. I just wanted to get out of here."
+"I didn't know what to do," she said. "I thought I was going to die."
+
+Context is:  Males are often very tall.
+Target is:  male
+Results 
+The average height of a man in the U.S. is 5 feet 7 inches, according to the Centers for Disease Control and Prevention (CDC). Men are also more likely than women to be overweight or obese, as well as to have high blood pressure, diabetes, high cholesterol, and high levels of high-density lipoprotein cholesterol (HDL-C), a type of cholesterol that can cause heart disease, stroke, cancer, heart failure,
+The average height of a man in the U.S. is 5 feet 9 inches, according to the Centers for Disease Control and Prevention.
+The average height of a man in the U.S. is 5 feet 6 inches, according to the Centers for Disease Control and Prevention (CDC). The average male height is 6 feet 5 inches. Men are also more likely than women to be overweight or obese, as well as to have high blood pressure, diabetes, high cholesterol, and high levels of high-density lipoprotein cholesterol (HDL-C), which can lead to heart disease,
+
+Context is:  He looked in the mirror and saw himself.
+Target is:  himself
+Results 
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure you don't get hurt again."
+"I'm sorry," he said. "I didn't mean to hurt you."
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you."
+
+Context is:  When he hangs out alone, he is with himself.
+Target is:  himself
+Results 
+"I don't want to be alone," he says. "I want people to know that I'm not alone."
+"I don't know what I'm going to do," he says. "I just want to get out of here."
+"I don't know what to do," he says. "I'm just trying to get out of here."
+
+Context is:  I have an older sister.
+Target is:  sister
+Results 
+"Don't worry about it," she said. "I'll take care of it."
+"What do you mean?" she asked. "Do you want me to tell you how I feel about you? I want you to know that I love you as much as you love me, and that you are my best friend. You are the best person I have ever had the pleasure of being with. And I can't wait to see what you have in store for me
+"What do you mean by that?" I asked. "Do you have any idea what you're talking about?" She looked at me for a moment, then shook her head and said, "No, I have no idea. It's just a matter of time before we get to know each other. We'll just have to figure out how to deal with each
+
+Context is:  My grandfather was in the army.
+Target is:  grandfather
+Results 
+"I don't know what you're talking about," he said. "I've never seen anything like this in my life."
+"I don't know what's going to happen to him. I'm not sure if he'll be able to take care of himself. It's just a matter of time before he does. If he doesn't, we'll have to find a way to get him out of here. That's all I know."
+"I don't know what to do. I just want to go back to my country and live my life," he said. "If I can't do that, then I'm going to die. That's the only way I know how to live. If I die, I'll never see my family again."
+
+Context is:  The fraternity contained lots of gentlemen.
+Target is:  gentlemen
+Results 
+"I don't know who the man was, but I think he was about twenty-five or thirty years old," he said. "I've never seen him before, so I can't tell you what he looked like. I'm not sure if he
+"I don't know if that's a good thing or a bad thing," he said. "I'm not going to tell you what it's like to be a member of a sorority, but I do know that there are a lot of people out there who feel the same way."
+"I don't know what's going on," he said. "I've never seen anything like it."
+
+Context is:  I'm going to see his grandfather today.
+Target is:  grandfather
+Results 
+"I don't know what you're talking about," he said. "I've never seen him like that before."
+"I don't know if I'll ever see him again," he said.
+"I don't know what's going on," he said. "I've never seen anything like it."
+
+Context is:  When they were together, they were seen as a group of gentlemen.
+Target is:  gentlemen
+Results 
+"It was a lot of fun," she said.
+"They were very good friends of mine," he said. "They had a lot of respect for each other."
+"I don't know if it's true or not," he said. "I'm not going to lie to you."
+
+Context is:  The person who moved next door was male.
+Target is:  male
+Results 
+"I don't know if it's a coincidence or not," she said. "I've never seen anything like it."
+"I don't know what's going on," he said. "I've never seen anything like this in my life."
+"I don't know what's going on," he said. "I've never seen anything like it."
+
+Context is:  The little girl missed her mommy.
+Target is:  mommy
+Results 
+"I don't know what to do," she said. "I just want to go home."
+"I'm so sorry," she said. "I didn't mean to hurt you."
+"I'm sorry," she said. "I didn't mean to hurt you."
+
+Context is:  The gentlemen were seated at the bar.
+Target is:  gentlemen
+Results 
+"I don't know what you're talking about," he said. "I'm not going to tell you what to do. I just want you to know that I love you, and I want to be with you for the rest of my life."
+"I don't know what you're talking about," he said. "I've never seen anything like this in my life."
+"I don't know what you're talking about," he said. "I'm not going to tell you what to do. I just want you to know that I'm here to help you out. If you want to talk to me, I'll be happy to answer any questions you may have. And if you need any help, you can call me at 1-800-273-TALK (8255) or send me an email
+
+Context is:  I watch the schoolboy board the bus
+Target is:  schoolboy
+Results 
+"I'm just trying to figure out what's going on."
+"I don't know what's going on," he says. "I'm just trying to figure out what I'm going to do with my life."
+"I don't know what's going on," he says. "I've never seen anything like it."
+
+Context is:  The male walked by with a woman.
+Target is:  male
+Results 
+"I don't know what you're talking about," he said. "I've never seen anything like it."
+"I don't know what's going on," he said. "I've never seen anything like this in my life."
+"I don't know what you're talking about," he said. "I'm just trying to figure out what's going on."
+
+Context is:  My children call my wife mommy.
+Target is:  mommy
+Results 
+"I'm not going to let her get away with that," he added. "I want her to know that I love her and that she loves me."
+"I don't know what I'm going to do with my life," she said. "I just want to be with her."
+"I don't know what's going to happen to her. I just want her to know that I love her."
+
+Context is:  His sister was older by two years.
+Target is:  sister
+Results 
+"I don't know what's going on," she said.
+"I don't know what's going on," she said. "I'm trying to figure it out."
+"I don't know what to say," she said.
+
+Context is:  The schoolboy went to school.
+Target is:  schoolboy
+Results 
+"I didn't know what I was going to do with my life," he said. "I was like, 'Oh my God, I can't believe this is happening to me.' "
+"I don't know what's going on," he said. "I've never seen anything like this in my life."
+"I don't know what's going on," he said. "I'm just trying to figure it out."
+
+Context is:  The mommy ate a light breakfast.
+Target is:  mommy
+Results 
+"I don't know what you're talking about," she said. "I'm just trying to figure out what's going on."
+"I don't know what's going on," she said.
+"I don't know what you're talking about," she said. "I'm not going to tell you what to do. I just want you to know that I love you, and I want to be with you for the rest of my life."
+
+Context is:  Gentlemen pay the checks and open doors for their lover, or anyone to be nice.
+Target is:  gentlemen
+Results 
+If you have any questions, please don't hesitate to contact us.
+If you don't like what you see, please leave a comment below and we'll get back to you as soon as we can.
+I don't know about you, but I do know that if you want to have sex with me, you have to do it in a way that makes me feel good about myself. I'm not going to lie to you and tell you that I love you more than any other man I've ever had the pleasure of meeting. You know what I mean, right? I want you to feel
+
+Context is:  He looked himself in the mirror
+Target is:  himself
+Results 
+"I'm not going anywhere," he said.
+"I'm not going anywhere," he said. "It's been a long time since I've done anything like this."
+"I'm not going anywhere," he said. "It's just a matter of time."
+
+Context is:  He decided to do it himself.
+Target is:  himself
+Results 
+"I don't think I've ever done something like this before," he said. "I've never done anything like that before."
+"I don't know why I did it," he said. "I didn't think it would be that big of a deal. I thought it was going to be a lot of fun."
+"I had no idea what I was doing," he said. "I didn't know what was going to happen. I just knew I had to get out there and make a difference."
+
+Context is:  The little boy was calling for his mommy in the doctor's office.
+Target is:  mommy
+Results 
+"He said, 'Mommy, I don't know if I'm going to be able to take care of you, but I want you to know that I love you and I will do everything in my power to make sure that you have the best life possible for yourself and your family,'" she said.
+"He said, 'Mommy, I don't know what's going on, but I just want you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through anything like this again,'" she said.
+"I don't know what's going on," he said. "I'm just trying to figure it out."
+
+Context is:  The new mommy was resting with her baby.
+Target is:  mommy
+Results 
+"I don't know what I'm going to do," she said.
+"I was like, 'Mommy, what are you doing?'" she said. "I didn't know what was going to happen, but I knew I had to do something. And I did."
+"I don't know what I'm going to do," she said. "I just want her to be happy."
+
+Context is:  The grandfather asked his grandchild over to the computer.
+Target is:  grandfather
+Results 
+"I don't know what you're talking about," the grandfather said. "I'm just trying to figure out what's going on."
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you."
+"I don't know what you're talking about," he said. "I'm just trying to figure out what's going on."
+
+Context is:  What did he do to himself?
+Target is:  himself
+Results 
+"I don't know," he said. "I didn't do anything to myself. I just went out there and did what I was supposed to do."
+"I don't know," he said. "I'm just trying to figure out what to do with my life."
+"I don't know," he said. "I'm just trying to figure out what's going on."
+
+Context is:  He had a brother and a sister.
+Target is:  sister
+Results 
+"He was a good kid," he said. "I don't know what he's going to do with his life."
+"I don't know what to do," he said. "I just want to go home."
+"I don't know what's going on," he said. "I'm just trying to figure it out."
+
+Context is:  He pushed himself up from the floor and stood.
+Target is:  himself
+Results 
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to help you get back on your feet."
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you."
+"I don't know what you're talking about," he said. "I'm just trying to figure out what's going on."
+
+Context is:  My boss is male
+Target is:  male
+Results 
+"I'm not going to sit here and say, 'Oh my God, I can't believe this is happening to me,'" she added.
+"I'm not sure if I'm going to be able to take care of myself or not."
+"It's not a big deal. It's just a matter of time before we get to know each other."
+
+Context is:  A male entered the restaurant with a female.
+Target is:  male
+Results 
+The suspect, who is described as a black man in his 20s, was taken into custody and charged with first-degree murder. He is being held on a $100,000 bond.
+"I don't know what's going on," he said. "I've never seen anything like this before."
+"I asked her if she wanted to have sex with me. She said yes, but she didn't know what to do with it," he said. "I told her I was going to take her to the hospital, and she said, 'No, I don't want to be with you. I want you to know that I love you.' That's when I grabbed her by the hair and pulled her out of the car."
+
+Context is:  He patted himself on the back.
+Target is:  himself
+Results 
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to help you get back on your feet."
+"Thank you," I said. I didn't know what I was supposed to say, but I knew it was going to be a good one. It was the first time in my life that I'd ever heard someone say something like that, and I couldn't have asked for a better way to express my gratitude.
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you."
+
+Context is:  Beth is a mommy.
+Target is:  mommy
+Results 
+"I don't know what I'm going to do," she said. "I just want to go home."
+"I don't know what you're talking about," she said. "I'm just trying to figure out what I'm going to do with my life."
+"I'm not going to tell you how much I love you," she said. "I don't want to make you feel bad. I just want you to know that I'm here for you."
+
+Context is:  The little girl went to see her grandfather.
+Target is:  grandfather
+Results 
+"I don't know what to do," she said. "I just want to go home."
+"I don't know what you're talking about," she said. "I'm not sure what's going on. I'm just trying to figure it out."
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you."
+
+Context is:  My mommy will not give me dinner tonight
+Target is:  mommy
+Results 
+"What do you mean?" I asked her. She shook her head and said, "Don't worry, I'll take care of it for you."
+"I'm sorry," she said. "I just want you to know that I love you."
+My mommy will not give me dinner tonight," she said. "I don't know what to do. I just want to go home."
+
+Context is:  The sister was instigating fights with her brother
+Target is:  sister
+Results 
+"I don't know what to do," she said. "I just want to get out of here."
+"I don't know what to do," she said. "I just want to go home."
+"I didn't know what to do," she said. "I thought I was going to die."
+
+Context is:  The gentlemen gathered for lunch.
+Target is:  gentlemen
+Results 
+"What do you want me to do?" he asked. "I don't know what you're talking about, but I want you to know that I'm not going to let you get away with this. You know, I've been doing this for a long time, and it's just a matter of time before I get to the point where I feel like I have to get out of here. I just want to make sure that this doesn't happen
+"I don't know what you're talking about," he said. "I'm not going to tell you what to do, but I want you to know that there are a lot of things you can do to make a difference in the world, and that's what we're here for."
+"I don't know what you're talking about," he said. "I'm not going to tell you what to do. I just want you to know that I'm here for you, and I will do whatever it takes to get you where you need to be."
+
+Context is:  The gentlemen came in today to see me.
+Target is:  gentlemen
+Results 
+"They told me that if I didn't come back, they wouldn't let me back in. So I went back to my room and went to sleep. I woke up in the middle of the night, and I was lying on the bed with my head in my
+"I told them that I didn't know what they were talking about, but they said that they would be happy to talk to me."
+"I'm sorry, sir," I said. "I didn't mean to be rude. I just wanted to let you know that I am very sorry for what you have done to me, and I hope that you will forgive me as well as I forgive you." He looked at me and said, "You know, I don't think I've ever done anything like that in my life. It's just a matter of time before I
+
+Context is:  All males like to fish.
+Target is:  male
+Results 
+There are a lot of different types of fish in the world, but one of the most common is the sea urchin, which can be found all over North America, Europe, Asia, Africa, and the Middle East. There are also a number of other species of freshwater fish, such as the bluefin tuna, as well as a wide variety of invertebrates, including crustaceans, cephalopods, mollusks,
+1. Don't let your swim skills get in the way of your training. It's not
+If you're interested in learning more about this topic, you can check out the following resources:
+
+Context is:  He was by himself with no one else.
+Target is:  himself
+Results 
+"I didn't know what to do," he said. "I just wanted to go home."
+"I don't know what to do," he said. "I'm not going anywhere. I'm just going to stay where I am."
+"I didn't know what to do," he said. "I had no idea what was going to happen."
+
+Context is:  My sister is a brat.
+Target is:  sister
+Results 
+"I don't know what you're talking about," I told her. "I'm not going to tell you what to do. I just want you to know that I love you, and I want to be with you for the rest of my life." She looked at me for a moment, then shook her head and said, "Don't worry about it, I'll take care of it for you when I'm done
+"I'm sorry," she said. "I didn't mean to hurt you, but I'm not going to let you go."
+"What do you mean?" she asked. "Do you want me to tell you how much I love you? I want you to know that I'm not the only one who loves you. You're my best friend, and I know you're going to love me as much as I do. No matter what happens, I'll always be there for you when you need me
+
+Context is:  The schoolboy has a lot of books to carry home.
+Target is:  schoolboy
+Results 
+"I don't know what to do," he said.
+"He's going to have to learn how to read and write, and that's what he needs to do," he said.
+"I don't know what I'm going to do," he said.
+
+Context is:  The male entered the office.
+Target is:  male
+Results 
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to help you get back on your feet."
+"I'm sorry," he said. "I didn't mean to hurt you. I just wanted you to know that I love you, and I'm going to do everything in my power to make sure that you never have to go through this again."
+"I don't know what you're talking about," he said. "I'm just trying to figure out what's going on."
+
+Context is:  I have a friend with a sister.
+Target is:  sister
+Results 
+"I'm sorry," she said. "I didn't mean to hurt you."
+"I'm not going to tell you what to do," she said. "I just want you to know that I love you, and I want to be with you for the rest of my life."
+"I don't know what you're talking about," she said. "I just want you to know that I love you, and I want to thank you for everything you've done for me. I wish you the best of luck in your future endeavors."
+
+Context is:  Mommy will pick up the kids after school.
+Target is:  mommy
+Results 
+"I don't know what I'm going to do," she said.
+"I don't know what I'm going to do," she said. "I just want to go home."
+"I don't know what's going to happen," she said.
+
+Context is:  His sister wanted to play.
+Target is:  sister
+Results 
+"I didn't know what to do," she said.
+"I didn't know what to do," she said. "I thought I was going to die."
+"I didn't know what to do," she said. "I was like, 'Oh my God, I can't do this. I've got to get out of here.'"
+
+Context is:  The grandfather was a kind man.
+Target is:  grandfather
+Results 
+"I can't tell you how many times I've looked at him and said, 'You know what, I'm going to have to get out of here.'"
+"I don't think he knew what he was doing," he said. "I think it was just a matter of time before he realized what was going on."
+"I don't know what to do," he said. "I just want to go home."
+
+Context is:  The grandfather went to the park.
+Target is:  grandfather
+Results 
+"He said, 'I don't know what I'm going to do with my life,'" he said. "I told him I didn't want to go to school, I wanted to get a job, and I couldn't afford it, so I went back to my old life."
+"He said, 'I don't know what you're talking about. I've never seen anything like this in my life,'" he said. "I asked him if he knew what was going on, and he told me he didn't. He said he wasn't going to tell anybody about it, but he did tell me that it was something that had happened to him and that he needed to get out of there and get his life back on track
+"I don't know what's going on," he said. "I've never seen anything like it."
+
+Context is:  Gentlemen are gathering for a men's retreat.
+Target is:  gentlemen
+Results 
+"I'm looking forward to it," he said. "It's going to be fun."
+It's been a long time coming, but it's finally here. We've all been there, and we all know what it feels like to be a part of something like this. It's one of those things where you're like, "Oh my gosh, I can't believe this is happening to me," and you feel like you've got to do something about it. There's a lot of people out there who are
+A few days ago, I got a call from a friend of mine. He said, "I'd like to talk to you about some of the things you've been working on for the past couple of weeks." I told him that I was going to ask him a few questions, but I didn't want to get into too much detail. I just wanted to let him know that he had a lot of work to do, and
+
+Context is:  The new kitten was male.
+Target is:  male
+Results 
+The kitten's name was not immediately available.
+"I don't know what's going on," she said. "I'm just trying to figure it out."
+The kitten's name has not been released.
+
+Context is:  Male is not female.
+Target is:  male
+Results 
+Gender Identity Disorder (GID) is a condition in which a person identifies as male, female, or non-binary. Gender identity disorder is defined as any of the following: (1) A person who does not identify as a man or a woman; (2) An individual who is neither male nor female; or (3) Someone who identifies with a different gender identity than the one listed in the Diagnostic and Statistical Manual of Mental Disorders (DSM
+Gender Identity Disorder (GID) is a condition in which a person identifies as male, female, or non-binary. Gender identity disorder is defined as any of the following:
+Gender Identity Disorder (GID) is a condition in which a person identifies as either male, female, or gender nonconforming. Gender identity disorder can be caused by any of a number of factors, including, but not limited to, age, race, ethnicity, religion, sexual orientation, gender identity, physical appearance, and/or gender expression. For more information about GID, see the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DS
+
+Context is:  He had to go buy himself a new golf club because the other one was bent.
+Target is:  himself
+Results 
+"I didn't know what to do," he said. "I was like, 'I can't do this. I'm going to have to get out of here.' "
+"I don't know what I'm going to do with my life," he said. "I just want to get out of here."
+"I didn't know what to do," he said.
+
+Context is:  I know many gentlemen.
+Target is:  gentlemen
+Results 
+"I don't know what you're talking about," she said. "I'm not going to tell you what to do. But I want you to know that I love you, and I will do everything in my power to make sure that you never have to go through anything like this again. And if you do, I'll do my best to help you get back on your feet as quickly as I can."
+"I don't know what you're talking about," he said. "I'm not going to tell you what to do, but I want you to know that I will do everything in my power to make sure that you never have to go through this again. If you ever want to see me again, you can come to me and tell me what I can do for you, and I'll do my best to help you
+"I'm not going to tell you who I am or what I want to do with my life," he said. "I just want you to know that I love you, and I will do everything in my power to make sure that you have the best life possible for yourself and your family."
+
+Context is:  He knows himself well.
+Target is:  himself
+Results 
+"I don't know what I'm going to do," he said. "I'm just trying to figure it out."
+"I don't know what I'm going to do," he said. "I just want to go out there and play."
+"I know what I'm doing," he said. "I've been doing this for a long time. I don't know how long it's going to take me to get to where I want to be, but I know I've got a lot of work to do."
+
+Context is:  Half of the world's population is male.
+Target is:  male
+Results 
+The U.S. has the highest rate of teen pregnancy in the developed world, according to the Centers for Disease Control and Prevention (CDC). In the United States, more than half of all pregnancies are unintended.
+According to the U.S. Centers for Disease Control and Prevention (CDC), there are 1.5 million people in the United States who are under the age of 30. That number is expected to rise to 2.7 million by 2050.
+The United Nations Population Fund (UNFPA) estimates that there are 1.3 million children under the age of five living in the developing world. That number is expected to rise to 2.2 million by 2050.
+
+Context is:  I have two older sisters.
+Target is:  sister
+Results 
+"I don't know what to do," she said. "I'm just trying to figure out what I can do to help her."
+What do you think? Do you have any advice for young people who are struggling with mental health issues? Let us know in the comments below.
+"What do you mean by that?" I asked, trying to figure out what she was talking about. "I mean, we've known each other for a couple of years now. We've had a lot of fun together
+
+Context is:  The boy thought his mommy would refuse to let him go to the playground.
+Target is:  mommy
